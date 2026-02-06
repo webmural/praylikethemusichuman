@@ -2,6 +2,10 @@ a + a {
   text-decoration-style: dashed;
 }
 
+.emo {
+  filter: invert(20%);
+}
+
 :focus {
   outline: thick dotted;
 }
